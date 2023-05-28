@@ -95,10 +95,14 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "codeCoverage": true
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "83f00014-6dc5-47e4-8d6d-0e9b6350cc60"
   }
 }
